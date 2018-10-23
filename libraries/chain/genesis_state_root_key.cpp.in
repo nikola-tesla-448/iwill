@@ -1,0 +1,12 @@
+/**
+ *  @file
+ *  @copyright defined in iwill/LICENSE.txt
+ */
+
+#include <iwillio/chain/genesis_state.hpp>
+
+namespace iwillio { namespace chain {
+
+const string genesis_state::iwillio_root_key = "${IWILLIO_ROOT_KEY}";
+
+} } // namespace iwillio::chain

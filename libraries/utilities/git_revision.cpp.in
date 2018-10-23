@@ -1,0 +1,14 @@
+#include <stdint.h>
+#include <iwill/utilities/git_revision.hpp>
+
+#define IWILL_GIT_REVISION_SHA "@IWILL_GIT_REVISION_SHA@"
+#define IWILL_GIT_REVISION_UNIX_TIMESTAMP @IWILL_GIT_REVISION_UNIX_TIMESTAMP@
+#define IWILL_GIT_REVISION_DESCRIPTION "@IWILL_GIT_REVISION_DESCRIPTION@"
+
+namespace iwillio { namespace utilities {
+
+const char* const git_revision_sha = IWILL_GIT_REVISION_SHA;
+const uint32_t git_revision_unix_timestamp = IWILL_GIT_REVISION_UNIX_TIMESTAMP;
+const char* const git_revision_description = IWILL_GIT_REVISION_DESCRIPTION;
+
+} } // end namespace iwillio::utilities

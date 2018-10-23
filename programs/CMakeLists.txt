@@ -1,0 +1,6 @@
+add_subdirectory( nodiwill )
+add_subdirectory( cliwill )
+add_subdirectory( kiwilld )
+add_subdirectory( iwillio-launcher )
+add_subdirectory( iwillio-abigen )
+add_subdirectory( iwillio-blocklog )
