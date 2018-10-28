@@ -70,16 +70,3 @@ IWILLIO currently supports the following operating systems:
 6. Ubuntu 18.04
 7. MacOS Darwin 10.12 and higher (MacOS 10.13.x recommended)
 
-## Resources
-1. [Website](https://iwill.io)
-1. [Blog](https://medium.com/iwillio)
-1. [Developer Portal](https://developers.iwill.io)
-1. [StackExchange for Q&A](https://iwillio.stackexchange.com/)
-1. [Community Telegram Group](https://t.me/IWILLProject)
-1. [Developer Telegram Group](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
-1. [White Paper](https://github.com/IWILLIO/Documentation/blob/master/TechnicalWhitePaper.md)
-1. [Roadmap](https://github.com/IWILLIO/Documentation/blob/master/Roadmap.md)
-
-<a name="gettingstarted"></a>
-## Getting Started
-Instructions detailing the process of getting the software, building it, running a simple test network that produces blocks, account creation and uploading a sample contract to the blockchain can be found in [Getting Started](https://developers.iwill.io/iwillio-nodiwill/docs/overview-1) on the [IWILLIO Developer Portal](https://developers.iwill.io).
